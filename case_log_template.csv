@@ -1,0 +1,1 @@
+case_id,created_at,brand,model,fault_category,symptoms,image_filename,usb_vbus_v,battery_voltage_v,power_supply_current_a,diode_resistance_notes,other_notes,confirmed_fault,repair_action,repair_outcome
